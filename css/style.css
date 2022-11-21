@@ -147,6 +147,21 @@ nav ul li {
         border: 2px solid #f7f7f7;
     }
 
+    /*-- Images --*/
+    img{
+        display: block;
+        margin: 8rem 0 2rem 0; /*or margin: 4rem 0 */
+        padding: 0;
+        max-width: 100%;
+    }
+
+    hr{
+        margin: 100px;
+        height: 1px;
+        background-color: rgb(49, 85, 204);
+        color: rgb(49, 85, 204);
+        border: 0 none;
+    }
 
         footer {
             text-align: center;
